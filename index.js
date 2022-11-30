@@ -6,4 +6,4 @@ var newHeader= h1;
 // Assign an Id to the h1 element
 h1.id = 'victory';
 // Add some text to the lement and all it's children
-h1.textContent =  "is the champion";
+h1.innerHTML =  "is the champion";
